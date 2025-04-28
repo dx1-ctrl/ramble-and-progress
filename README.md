@@ -7,3 +7,4 @@ i honestly dont know if im gonna make it python or not, i alr have like 1500 lin
 yeah ill js stick to the python ill fry my brain relearning cpp
 maybe ill do cs idk
 yea im doing python with a QT ui just like DJV2, except i actually know a little design now
+on a random note you guys are sleeping on cursor i swear the coding ai is so good
